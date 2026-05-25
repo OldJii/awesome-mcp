@@ -241,7 +241,7 @@
 
 ### Aggregators
 
-- [MCP Dock](https://github.com/OldJii/mcp-dock) - Desktop MCP server manager for 14 AI clients with 9,200+ servers and 3,100+ skills. One-click install, built-in inspector, config history and rollback.
+- [OldJii/mcp-dock](https://github.com/OldJii/mcp-dock) - Desktop MCP server manager for 14 AI clients with 9,200+ servers and 3,100+ skills. One-click install, built-in inspector, config history and rollback.
 - [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) — Query Engine for AI Analytics - self-reasoning agents on live data ☆`39,208`
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) — MCP Aggregator, Orchestrator, Middleware, Gateway in one docker ☆`2,347`
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) — One place to manage & connect to all your MCP servers ☆`1,060`
